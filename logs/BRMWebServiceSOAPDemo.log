@@ -1,0 +1,451 @@
+2024-07-04 14:38:00.736 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 16743 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 14:38:00.738 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 14:38:00.738 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 14:38:01.233 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:38:01.234 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 14:38:01.234 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 14:38:01.259 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 14:38:01.325 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 14:38:01.328 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 14:38:01.347 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 14:38:01.391 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:38:01.403 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.992 seconds (process running for 1.259)
+2024-07-04 14:39:53.984 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-04 14:45:18.582 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 20908 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 14:45:18.583 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 14:45:18.583 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 14:45:18.983 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:45:18.984 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 14:45:18.984 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 14:45:19.005 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 14:45:19.095 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 14:45:19.099 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 14:45:19.117 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 14:45:19.162 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:45:19.179 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.841 seconds (process running for 1.054)
+2024-07-04 14:45:27.998 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 21009 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 14:45:27.999 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 14:45:27.999 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 14:45:28.403 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:45:28.404 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 14:45:28.404 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 14:45:28.428 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 14:45:28.508 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 14:45:28.511 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 14:45:28.531 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 14:45:28.575 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:45:28.587 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.843 seconds (process running for 1.03)
+2024-07-04 14:45:47.953 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-04 14:47:03.159 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 21915 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 14:47:03.159 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 14:47:03.160 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 14:47:03.554 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:47:03.554 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 14:47:03.555 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 14:47:03.585 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 14:47:03.675 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 14:47:03.678 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 14:47:03.699 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 14:47:03.747 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:47:03.758 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.834 seconds (process running for 1.134)
+2024-07-04 14:47:48.170 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 15:05:23.033 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 32108 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:05:23.033 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:05:23.033 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:05:23.379 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:05:23.380 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:05:23.380 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:05:23.404 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:05:23.505 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:05:23.513 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:05:23.543 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:05:23.588 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:05:23.600 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.809 seconds (process running for 1.026)
+2024-07-04 15:05:34.411 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 15:17:35.186 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 38811 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:17:35.187 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:17:35.187 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:17:35.566 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:17:35.569 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:17:35.570 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:17:35.594 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:17:35.685 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:17:35.688 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:17:35.708 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:17:35.753 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:17:35.766 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.827 seconds (process running for 1.086)
+2024-07-04 15:17:41.568 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 15:42:09.752 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 52336 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:42:09.753 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:42:09.753 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:42:10.123 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:42:10.124 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:42:10.124 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:42:10.153 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:42:10.249 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:42:10.253 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:42:10.274 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:42:10.321 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:42:10.334 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.805 seconds (process running for 1.012)
+2024-07-04 15:42:24.611 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 15:47:19.273 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 55135 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:47:19.274 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:47:19.274 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:47:19.631 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:47:19.632 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:47:19.632 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:47:19.659 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:47:19.750 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:47:19.754 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:47:19.773 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:47:19.819 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:47:19.830 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.806 seconds (process running for 1.043)
+2024-07-04 15:47:28.903 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 15:47:29.091 [http-nio-2248-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-04 15:48:15.737 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 55672 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:48:15.738 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:48:15.738 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:48:16.088 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:48:16.089 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:48:16.089 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:48:16.117 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:48:16.212 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:48:16.215 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:48:16.239 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:48:16.284 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:48:16.294 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.772 seconds (process running for 0.958)
+2024-07-04 15:48:26.405 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 15:48:26.511 [http-nio-2248-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-04 15:49:05.951 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 56138 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:49:05.951 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:49:05.952 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:49:06.317 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:49:06.318 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:49:06.318 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:49:06.343 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:49:06.376 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 15:49:06.430 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:49:06.433 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:49:06.453 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:49:06.512 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:49:06.526 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.791 seconds (process running for 1.029)
+2024-07-04 15:49:43.267 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 56482 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:49:43.267 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:49:43.268 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:49:43.598 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:49:43.598 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:49:43.598 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:49:43.620 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:49:43.621 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 15:49:43.647 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 15:49:43.651 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 15:49:43.699 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:49:43.702 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:49:43.719 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:49:43.763 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:49:43.780 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.71 seconds (process running for 0.897)
+2024-07-04 15:51:19.041 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 57350 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 15:51:19.042 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 15:51:19.042 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 15:51:19.383 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:51:19.383 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 15:51:19.383 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 15:51:19.408 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 15:51:19.409 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 15:51:19.437 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 15:51:19.442 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 15:51:19.488 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 15:51:19.491 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 15:51:19.508 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 15:51:19.551 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 15:51:19.563 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.75 seconds (process running for 1.072)
+2024-07-04 15:52:13.056 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 16:47:38.105 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 88217 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 16:47:38.106 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 16:47:38.108 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 16:47:38.452 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 16:47:38.452 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 16:47:38.452 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 16:47:38.476 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 16:47:38.477 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 16:47:38.509 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 16:47:38.516 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 16:47:38.577 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 16:47:38.581 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 16:47:38.600 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 16:47:38.647 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 16:47:38.659 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.758 seconds (process running for 1.002)
+2024-07-04 16:48:14.809 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 16:48:14.965 [http-nio-2248-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-04 16:48:33.998 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 16:48:33.999 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - ?
+2024-07-04 16:49:37.290 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 16:49:37.293 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 16:49:56.710 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 16:49:56.711 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 16:53:48.609 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 91648 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 16:53:48.609 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 16:53:48.611 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 16:53:48.959 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 16:53:48.959 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 16:53:48.959 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 16:53:48.983 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 16:53:48.984 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 16:53:49.013 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 16:53:49.018 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 16:53:49.069 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 16:53:49.072 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 16:53:49.090 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 16:53:49.133 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 16:53:49.148 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.753 seconds (process running for 0.977)
+2024-07-04 16:53:56.250 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 16:53:56.346 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 16:53:56.346 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 17:01:30.065 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 95973 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:01:30.068 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:01:30.068 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:01:30.454 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:01:30.455 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:01:30.455 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:01:30.477 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:01:30.478 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:01:30.506 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:01:30.511 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:01:30.564 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:01:30.567 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:01:30.589 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:01:30.637 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:01:30.650 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.808 seconds (process running for 1.098)
+2024-07-04 17:01:45.174 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 17:01:45.284 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 17:01:45.284 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 17:04:26.320 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 17:04:26.326 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 17:06:38.567 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 17:06:38.569 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 17:08:53.372 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 17:08:53.380 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 300001520
+2024-07-04 17:09:19.172 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest - 1
+2024-07-04 17:09:19.174 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - 3000015288
+2024-07-04 17:11:17.671 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 1794 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:11:17.672 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:11:17.672 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:11:18.186 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:11:18.186 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:11:18.186 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:11:18.207 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:11:18.209 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:11:18.241 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:11:18.247 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:11:18.303 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:11:18.305 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:11:18.322 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:11:18.362 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:11:18.373 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.938 seconds (process running for 1.197)
+2024-07-04 17:11:45.091 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 2059 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:11:45.092 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:11:45.092 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:11:45.604 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:11:45.605 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:11:45.605 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:11:45.641 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:11:45.642 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:11:45.677 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:11:45.684 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:11:45.771 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:11:45.775 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:11:45.794 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:11:45.845 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:11:45.858 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 1.013 seconds (process running for 1.268)
+2024-07-04 17:11:54.354 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 17:11:54.470 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 17:11:54.471 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - rquest: %s, response: %s
+2024-07-04 17:13:09.284 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 2865 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:13:09.284 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:13:09.285 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:13:09.661 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:13:09.662 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:13:09.662 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:13:09.685 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:13:09.687 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:13:09.715 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:13:09.721 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:13:09.776 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:13:09.781 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:13:09.800 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:13:09.847 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:13:09.859 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.793 seconds (process running for 1.039)
+2024-07-04 17:13:16.371 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 17:13:16.476 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 17:13:16.477 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsRequest@151a7605, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@43e39682
+2024-07-04 17:13:43.992 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 3203 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:13:43.992 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:13:43.992 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:13:44.335 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:13:44.335 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:13:44.335 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:13:44.361 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:13:44.362 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:13:44.392 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:13:44.397 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:13:44.452 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:13:44.456 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:13:44.476 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:13:44.525 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:13:44.537 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.752 seconds (process running for 0.942)
+2024-07-04 17:13:47.384 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 17:13:47.478 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 17:13:47.479 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsRequest@258704e4, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@1fd7248e
+2024-07-04 17:14:24.726 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 3574 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:14:24.726 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:14:24.727 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:14:25.052 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:14:25.052 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:14:25.052 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:14:25.077 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:14:25.078 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:14:25.105 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:14:25.110 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:14:25.158 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:14:25.161 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:14:25.179 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:14:25.224 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:14:25.236 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.702 seconds (process running for 0.911)
+2024-07-04 17:15:53.274 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 4398 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 17:15:53.275 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 17:15:53.275 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 17:15:53.622 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:15:53.623 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 17:15:53.623 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 17:15:53.645 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 17:15:53.646 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 17:15:53.677 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 17:15:53.682 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 17:15:53.734 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 17:15:53.738 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 17:15:53.757 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 17:15:53.802 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 17:15:53.814 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.733 seconds (process running for 0.924)
+2024-07-04 17:15:58.063 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 17:15:58.206 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 17:15:58.212 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@151a7605}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@43e39682
+2024-07-04 17:22:07.908 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 17:22:07.953 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@f23d34d}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@1d769500
+2024-07-04 17:22:35.428 [http-nio-2248-exec-4] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 17:22:35.429 [http-nio-2248-exec-4] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@37866c15}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@7b0d4d0
+2024-07-04 18:23:41.710 [http-nio-2248-exec-6] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:23:41.720 [http-nio-2248-exec-6] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@b947e5c}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@4733612a
+2024-07-04 18:24:03.931 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:24:03.934 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@1d712e8f}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@5f595d61
+2024-07-04 18:30:55.788 [http-nio-2248-exec-10] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:30:55.790 [http-nio-2248-exec-10] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@1be06946}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@742fdeac
+2024-07-04 18:49:16.173 [http-nio-2248-exec-2] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:49:16.178 [http-nio-2248-exec-2] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@5a59d902}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@56109b64
+2024-07-04 18:50:02.016 [http-nio-2248-exec-4] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:50:02.018 [http-nio-2248-exec-4] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@774a02ab}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@61bb12f7
+2024-07-04 18:54:59.660 [http-nio-2248-exec-6] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:54:59.666 [http-nio-2248-exec-6] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@232a0fa6}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@461c5272
+2024-07-04 18:55:13.397 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:55:13.399 [http-nio-2248-exec-8] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@33017642}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@23987056
+2024-07-04 18:56:46.732 [http-nio-2248-exec-10] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 18:56:46.735 [http-nio-2248-exec-10] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@29fa337a}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@7cf0fa54
+2024-07-04 19:00:04.999 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 39055 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 19:00:05.000 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 19:00:05.001 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 19:00:05.384 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 19:00:05.384 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 19:00:05.384 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 19:00:05.408 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 19:00:05.409 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - messageDispatcherServlet -- 1
+2024-07-04 19:00:05.439 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - vfEaiOpEnquiryArDetailsSchema -- 1
+2024-07-04 19:00:05.445 [main] INFO  c.w.soapdemo.webservicesoap.config.WSConfig - DefaultWsdl11Definition -- 1
+2024-07-04 19:00:05.508 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 19:00:05.512 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 19:00:05.530 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 19:00:05.591 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 19:00:05.604 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.831 seconds (process running for 1.056)
+2024-07-04 19:00:56.805 [http-nio-2248-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring MessageDispatcherServlet 'messageDispatcherServlet'
+2024-07-04 19:00:56.915 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:00:56.916 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@7e49622f}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@2d7731f1
+2024-07-04 19:02:36.671 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:02:36.673 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@14847077}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@29e56b86
+2024-07-04 19:05:55.035 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:05:55.037 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@e8b10a2}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@327939e5
+2024-07-04 19:13:24.595 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:13:24.601 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@668d803a}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@29f1ee73
+2024-07-04 19:14:01.341 [http-nio-2248-exec-9] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:14:01.343 [http-nio-2248-exec-9] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@3e6dbaa1}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@2262bda5
+2024-07-04 19:52:53.000 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:52:53.014 [http-nio-2248-exec-1] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@65f18538}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@4d50fcdb
+2024-07-04 19:53:55.727 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:53:55.728 [http-nio-2248-exec-3] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@7ea6933c}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@29721966
+2024-07-04 19:58:25.208 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:58:25.211 [http-nio-2248-exec-5] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@65b547ed}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@43f3a068
+2024-07-04 19:59:45.061 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - handleRequest
+2024-07-04 19:59:45.063 [http-nio-2248-exec-7] INFO  c.w.s.webservicesoap.controller.ArDetailsEndpoint - request: VFEAIOPENQUIRYARDETAILSRequestType{flags=256, vfeaiopenquiryardetailsInputFlist=com.oracle.xmlns.brm.schemas.businessopcodes.VFEAIOPENQUIRYARDETAILSRequestType$VFEAIOPENQUIRYARDETAILSInputFlist@430c6dff}, response: com.oracle.xmlns.brm.schemas.businessopcodes.VfEaiOpEnquiryArDetailsResponse@3aa4bdb4

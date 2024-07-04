@@ -1,0 +1,15 @@
+2024-07-04 14:34:58.752 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Starting WebServiceSoapApplication using Java 17.0.7 with PID 15104 (/Users/jamesji/Code/WebServiceSOAP/target/classes started by jamesji in /Users/jamesji/Code/WebServiceSOAP)
+2024-07-04 14:34:58.754 [main] DEBUG c.w.s.webservicesoap.WebServiceSoapApplication - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-04 14:34:58.755 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - No active profile set, falling back to 1 default profile: "default"
+2024-07-04 14:34:59.120 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:34:59.121 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-07-04 14:34:59.121 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-04 14:34:59.146 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-07-04 14:34:59.218 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+2024-07-04 14:34:59.221 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'beanNameHandlerMapping' {}
+2024-07-04 14:34:59.240 [main] DEBUG _.s.web.servlet.HandlerMapping.Mappings - 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+2024-07-04 14:34:59.287 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-2248"]
+2024-07-04 14:34:59.298 [main] INFO  c.w.s.webservicesoap.WebServiceSoapApplication - Started WebServiceSoapApplication in 0.763 seconds (process running for 0.995)

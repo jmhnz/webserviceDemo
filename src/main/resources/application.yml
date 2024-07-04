@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: BRMWebServiceSOAPDemo
+server:
+  port: 2248
+
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    com.webservice.soapdemo.webservicesoap: debug
+  file:
+    path: ./logs
